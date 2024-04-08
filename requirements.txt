@@ -1,0 +1,5 @@
+torch
+jupyter
+ipywidgets
+numpy
+scipy
