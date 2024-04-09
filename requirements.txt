@@ -3,3 +3,6 @@ jupyter
 ipywidgets
 numpy
 scipy
+
+matplotlib
+scikit-learn
